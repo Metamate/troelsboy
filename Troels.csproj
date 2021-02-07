@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <PropertyGroup>
-      <BlazorEnableCompression>false</BlazorEnableCompression>
-  </PropertyGroup>
-
-  <PropertyGroup>
       <BlazorCacheBootResources>false</BlazorCacheBootResources>
   </PropertyGroup>
   
